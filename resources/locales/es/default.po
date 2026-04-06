@@ -1,0 +1,137 @@
+msgid "Iniciar Sesión"
+msgstr "Iniciar Sesión"
+
+msgid "Correo"
+msgstr "Correo"
+
+msgid "Email"
+msgstr "Correo"
+
+msgid "Contraseña"
+msgstr "Contraseña"
+
+msgid "Ingrese su correo"
+msgstr "Ingrese su correo"
+
+msgid "Ingrese su contraseña"
+msgstr "Ingrese su contraseña"
+
+msgid "Ingresar"
+msgstr "Ingresar"
+
+msgid "Idioma"
+msgstr "Idioma"
+
+msgid "Español"
+msgstr "Español"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Correo o contraseña incorrectos"
+msgstr "Correo o contraseña incorrectos"
+
+msgid "Cerrar sesión"
+msgstr "Cerrar sesión"
+
+msgid "Usuarios"
+msgstr "Usuarios"
+
+msgid "Usuario"
+msgstr "Usuario"
+
+msgid "Nuevo Usuario"
+msgstr "Nuevo Usuario"
+
+msgid "Usuario guardado correctamente"
+msgstr "Usuario guardado correctamente"
+
+msgid "Error al guardar el usuario"
+msgstr "Error al guardar el usuario"
+
+msgid "Usuario actualizado"
+msgstr "Usuario actualizado"
+
+msgid "Error al actualizar"
+msgstr "Error al actualizar"
+
+msgid "Usuario eliminado"
+msgstr "Usuario eliminado"
+
+msgid "Error al eliminar"
+msgstr "Error al eliminar"
+
+msgid "Nombre"
+msgstr "Nombre"
+
+msgid "Apellido"
+msgstr "Apellido"
+
+msgid "Acciones"
+msgstr "Acciones"
+
+msgid "Ver"
+msgstr "Ver"
+
+msgid "Editar"
+msgstr "Editar"
+
+msgid "Eliminar"
+msgstr "Eliminar"
+
+msgid "¿Seguro que quieres eliminar?"
+msgstr "¿Seguro que quieres eliminar?"
+
+msgid "Direcciones"
+msgstr "Direcciones"
+
+msgid "Dirección"
+msgstr "Dirección"
+
+msgid "Nueva Dirección"
+msgstr "Nueva Dirección"
+
+msgid "Calle"
+msgstr "Calle"
+
+msgid "Ciudad"
+msgstr "Ciudad"
+
+msgid "Código Postal"
+msgstr "Código Postal"
+
+msgid "Teléfono"
+msgstr "Teléfono"
+
+msgid "Referencia"
+msgstr "Referencia"
+
+msgid "País"
+msgstr "País"
+
+msgid "Detalle de Dirección"
+msgstr "Detalle de Dirección"
+
+msgid "Editar Dirección"
+msgstr "Editar Dirección"
+
+msgid "Guardar"
+msgstr "Guardar"
+
+msgid "Volver"
+msgstr "Volver"
+
+msgid "Eliminar Dirección"
+msgstr "Eliminar Dirección"
+
+msgid "Página {{page}} de {{pages}}, mostrando {{current}} de {{count}} registros"
+msgstr "Página {{page}} de {{pages}}, mostrando {{current}} de {{count}} registros"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Creado"
+msgstr "Creado"
+
+msgid "Modificado"
+msgstr "Modificado"

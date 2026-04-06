@@ -1,0 +1,137 @@
+msgid "Iniciar Sesión"
+msgstr "Login"
+
+msgid "Correo"
+msgstr "Email"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Contraseña"
+msgstr "Password"
+
+msgid "Ingrese su correo"
+msgstr "Enter your email"
+
+msgid "Ingrese su contraseña"
+msgstr "Enter your password"
+
+msgid "Ingresar"
+msgstr "Login"
+
+msgid "Idioma"
+msgstr "Language"
+
+msgid "Español"
+msgstr "Spanish"
+
+msgid "English"
+msgstr "English"
+
+msgid "Correo o contraseña incorrectos"
+msgstr "Incorrect email or password"
+
+msgid "Cerrar sesión"
+msgstr "Logout"
+
+msgid "Usuarios"
+msgstr "Users"
+
+msgid "Usuario"
+msgstr "User"
+
+msgid "Nuevo Usuario"
+msgstr "New User"
+
+msgid "Usuario guardado correctamente"
+msgstr "User saved successfully"
+
+msgid "Error al guardar el usuario"
+msgstr "Error saving user"
+
+msgid "Usuario actualizado"
+msgstr "User updated"
+
+msgid "Error al actualizar"
+msgstr "Error updating"
+
+msgid "Usuario eliminado"
+msgstr "User deleted"
+
+msgid "Error al eliminar"
+msgstr "Error deleting"
+
+msgid "Nombre"
+msgstr "First Name"
+
+msgid "Apellido"
+msgstr "Last Name"
+
+msgid "Acciones"
+msgstr "Actions"
+
+msgid "Ver"
+msgstr "View"
+
+msgid "Editar"
+msgstr "Edit"
+
+msgid "Eliminar"
+msgstr "Delete"
+
+msgid "¿Seguro que quieres eliminar?"
+msgstr "Are you sure you want to delete?"
+
+msgid "Direcciones"
+msgstr "Addresses"
+
+msgid "Dirección"
+msgstr "Address"
+
+msgid "Nueva Dirección"
+msgstr "New Address"
+
+msgid "Calle"
+msgstr "Street"
+
+msgid "Ciudad"
+msgstr "City"
+
+msgid "Código Postal"
+msgstr "Postal Code"
+
+msgid "Teléfono"
+msgstr "Phone"
+
+msgid "Referencia"
+msgstr "Reference"
+
+msgid "País"
+msgstr "Country"
+
+msgid "Detalle de Dirección"
+msgstr "Address Details"
+
+msgid "Editar Dirección"
+msgstr "Edit Address"
+
+msgid "Guardar"
+msgstr "Save"
+
+msgid "Volver"
+msgstr "Back"
+
+msgid "Eliminar Dirección"
+msgstr "Delete Address"
+
+msgid "Página {{page}} de {{pages}}, mostrando {{current}} de {{count}} registros"
+msgstr "Page {{page}} of {{pages}}, showing {{current}} of {{count}} records"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Creado"
+msgstr "Created"
+
+msgid "Modificado"
+msgstr "Modified"
