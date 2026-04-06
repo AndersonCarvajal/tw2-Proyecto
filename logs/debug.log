@@ -1,0 +1,66 @@
+2026-04-01 13:20:49 notice: Undefined property `UsersController::$Authentication` in `/home/live/cakephp/entregablefinal/app_ef/src/Controller/UsersController.php` on line 20 in /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php on line 314
+Trace:
+Cake\Error\ErrorTrap->handleError() [internal], line ??
+/home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php, line 314
+Cake\Controller\Controller->__get() /home/live/cakephp/entregablefinal/app_ef/src/Controller/UsersController.php, line 20
+App\Controller\UsersController->beforeFilter() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Event/EventManager.php, line 332
+Cake\Event\EventManager->_callListener() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Event/EventManager.php, line 316
+Cake\Event\EventManager->dispatch() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php, line 92
+Cake\Controller\Controller->dispatchEvent() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php, line 602
+Cake\Controller\Controller->startupProcess() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 156
+Cake\Controller\ControllerFactory->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 141
+Cake\Controller\ControllerFactory->invoke() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 362
+Cake\Http\BaseApplication->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Middleware\BodyParserMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/authentication/src/Middleware/AuthenticationMiddleware.php, line 106
+Authentication\Middleware\AuthenticationMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 71
+Cake\Routing\Middleware\AssetMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 60
+Cake\Http\Runner->run() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Server.php, line 98
+Cake\Http\Server->run() /home/live/cakephp/entregablefinal/app_ef/webroot/index.php, line 37
+[main]
+
+Request URL: /
+2026-04-01 13:20:52 notice: Undefined property `UsersController::$Authentication` in `/home/live/cakephp/entregablefinal/app_ef/src/Controller/UsersController.php` on line 20 in /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php on line 314
+Trace:
+Cake\Error\ErrorTrap->handleError() [internal], line ??
+/home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php, line 314
+Cake\Controller\Controller->__get() /home/live/cakephp/entregablefinal/app_ef/src/Controller/UsersController.php, line 20
+App\Controller\UsersController->beforeFilter() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Event/EventManager.php, line 332
+Cake\Event\EventManager->_callListener() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Event/EventManager.php, line 316
+Cake\Event\EventManager->dispatch() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Event/EventDispatcherTrait.php, line 92
+Cake\Controller\Controller->dispatchEvent() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/Controller.php, line 602
+Cake\Controller\Controller->startupProcess() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 156
+Cake\Controller\ControllerFactory->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Controller/ControllerFactory.php, line 141
+Cake\Controller\ControllerFactory->invoke() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/BaseApplication.php, line 362
+Cake\Http\BaseApplication->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 86
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Middleware/CsrfProtectionMiddleware.php, line 169
+Cake\Http\Middleware\CsrfProtectionMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Middleware/BodyParserMiddleware.php, line 157
+Cake\Http\Middleware\BodyParserMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/authentication/src/Middleware/AuthenticationMiddleware.php, line 106
+Authentication\Middleware\AuthenticationMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Routing/Middleware/RoutingMiddleware.php, line 118
+Cake\Routing\Middleware\RoutingMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Routing/Middleware/AssetMiddleware.php, line 71
+Cake\Routing\Middleware\AssetMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Error/Middleware/ErrorHandlerMiddleware.php, line 115
+Cake\Error\Middleware\ErrorHandlerMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/debug_kit/src/Middleware/DebugKitMiddleware.php, line 60
+DebugKit\Middleware\DebugKitMiddleware->process() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 82
+Cake\Http\Runner->handle() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Runner.php, line 60
+Cake\Http\Runner->run() /home/live/cakephp/entregablefinal/app_ef/vendor/cakephp/cakephp/src/Http/Server.php, line 98
+Cake\Http\Server->run() /home/live/cakephp/entregablefinal/app_ef/webroot/index.php, line 37
+[main]
+
+Request URL: /
