@@ -11,14 +11,14 @@ Objetivo
 Desarrollar una aplicación web funcional que permita la gestión de información personal en múltiples idiomas, aplicando buenas prácticas de desarrollo, uso de frameworks y control de versiones.
 
 ⚙️ Tecnologías Utilizadas
-
+```
 Framework: CakePHP 5.x
 Lenguaje: PHP
 Base de Datos: MariaDB
 Frontend: HTML, CSS
 Control de versiones: Git
 Servidor: 172.25.0.204:8765
-
+```
 Funcionalidades Principales
 
 Autenticación
@@ -59,12 +59,14 @@ resources/
  └── locales/
      ├── es/
      └── en/
-
+```
 Instalación
 Clonar el repositorio:
+```
 git clone https://github.com/AndersonCarvajal/tw2-Proyecto.git
+```
 Entrar al proyecto:
-cd tu-repo
+cd tw2-Proyecto.git
 Instalar dependencias:
 composer install
 Configurar base de datos en:
