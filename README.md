@@ -48,6 +48,7 @@ Mensajes
 Tablas
 
 Estructura del Proyecto
+```
 src/
  ├── Controller/
  ├── Model/
